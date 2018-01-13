@@ -783,7 +783,7 @@ function displayData(dataJSON)
 			<th class="w_top"><a href="#w_MySQL">MySQL</a></th>
 			<th class="w_top"><a href="#w_function">Function</a></th>
 			<th class="w_top"><a href="#w_mail">Mail</a></th>
-			<th class="w_top"><a href="http://www.yahei.net/tz/tz_e.zip">Download</a></th>
+			<th class="w_top"><a href="https://github.com/SlaSerX/PHP-Server-Status">Download</a></th>
 		</tr>
 	</table>
 
