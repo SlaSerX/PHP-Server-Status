@@ -71,11 +71,11 @@ function show($varName)
 	switch($result = get_cfg_var($varName))
 	{
 		case 0:
-			return '<font color="red">Г—</font>';
+			return '<font color="red">&times;</font>';
 		break;
 		
 		case 1:
-			return '<font color="green">в€љ</font>';
+			return '<font color="green">&radic;</font>';
 		break;
 		
 		default:
